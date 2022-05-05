@@ -1,7 +1,7 @@
 ---
 type: header
 logo:
-  src: ../assets/logo.svg
+  src: ../assets/suivi_taches.jpg
   alt: logo de foudroyer
 tabs:
   - type: follow
